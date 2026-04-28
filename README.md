@@ -150,6 +150,27 @@
     </tr>
     <tr>
         <td colspan="2" align="center">
+            <h3>Courses & Certifications</h3>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" width="50%">
+            <img src="canva-200-design-milestone-badge.png">
+        </td>
+        <td valign="top" width="50%">
+            <img src="contentful-developers.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" width="50%">
+            <img src="wordpress-vip-enterprise-block-editor.jpg">
+        </td>
+        <td valign="top" width="50%">
+            <img src="wordpress-vip-architecture.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
             <h3>Let's Connect</h3>
             <p><em>Project links or implementation details may be intentionally omitted due to confidentiality agreements and client/employer policies. I'm happy to discuss specifics where permitted.</em></p>
             <p>Explore my repositories below or connect for collaboration opportunities.</p>
