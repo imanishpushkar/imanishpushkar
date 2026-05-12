@@ -80,7 +80,7 @@
                 <li>Delivered high-impact solutions for global enterprise clients</li>
             </ul>
             <p><strong>Tech/Tools:</strong> WordPress VIP, ACF Pro, PHP, GraphQL, Git, Docker, SonarCloud, Jira, Confluence, draw.io, Figma</p>
-            <hr/>
+            ---
             <h4><strong>Coredo OY</strong> — Software Architect (May 2022 – Mar 2025, Remote)</h4>
             <ul>
                 <li>Built and managed CMS platforms using WordPress, Drupal, and Contentful</li>
@@ -89,14 +89,14 @@
                 <li>Focused on system architecture, performance optimization, and scalable delivery</li>
             </ul>
             <p><strong>Tech/Tools:</strong> HTML5, CSS3, Bootstrap 5, WordPress, Drupal, Contentful, PHP, Ajax, REST API, GraphQL, Git, Jira, Confluence, Figma, Adobe XD</p>
-            <hr/>
+            ---
             <h4><strong>Tricon Infotech</strong> — Principal Engineer (May 2021 – Mar 2022, Remote)</h4>
             <ul>
                 <li>Worked on large-scale enterprise publishing platform (Taylor & Francis)</li>
                 <li>Handled complex WordPress development and enhancements</li>
                 <li>Collaborated with cross-functional teams to deliver scalable solutions</li>
             </ul>
-            <hr/>
+            ---
             <h4><strong>Adobe</strong> — Software Engineer II (Mar 2020 – Mar 2021, Contract, Remote)</h4>
             <ul>
                 <li>Contributed to Adobe XD Ideas platform and marketing ecosystem</li>
@@ -104,42 +104,42 @@
                 <li>Built weekly HTML newsletters based on Adobe XD design systems</li>
                 <li>Collaborated with global teams across design, engineering, and publishing</li>
             </ul>
-            <hr/>
+            ---
             <h4><strong>Opteamix</strong> — Senior Software Engineer (Jul 2018 – Nov 2019, On-site)</h4>
             <ul>
                 <li>Developed CMS-driven platforms using WordPress, Drupal, and Contentful</li>
                 <li>Worked on enterprise projects including FHLBank San Francisco and MyCarandBike</li>
                 <li>Contributed to UI/UX improvements and backend architecture</li>
             </ul>
-            <hr/>
+            ---
             <h4><strong>Magnetyz</strong> — Software Engineer (Jun 2016 – Jun 2018, On-site)</h4>
             <ul>
                 <li>Built custom HTML templates, WordPress themes, and plugins from scratch</li>
                 <li>Delivered 50+ projects across education, corporate, and eCommerce domains</li>
                 <li>Developed landing pages and marketing assets for enterprise clients</li>
             </ul>
-            <hr/>
+            ---
             <h4><strong>Brandstard</strong> — Software Engineer (Jan 2016 – May 2016, Remote)</h4>
             <ul>
                 <li>Developed websites using WordPress, Magento, and custom PHP solutions</li>
                 <li>Worked on eCommerce, real estate, and content-driven platforms</li>
                 <li>Collaborated with marketing and design teams for delivery</li>
             </ul>
-            <hr/>
+            ---
             <h4><strong>Prakyath Applications</strong> — Software Engineer (Dec 2014 – Dec 2015, On-site)</h4>
             <ul>
                 <li>Built web applications and CMS platforms using PHP and WordPress</li>
                 <li>Worked on real estate, news portal, and enterprise internal tools</li>
                 <li>Developed scalable and user-focused digital solutions</li>
             </ul>
-            <hr/>
+            ---
             <h4><strong>Quaarc Solutions</strong> — Software Engineer (Sep 2013 – Aug 2014, On-site)</h4>
             <ul>
                 <li>Developed websites across multiple industries using WordPress and PHP</li>
                 <li>Worked on corporate, event, and eCommerce platforms</li>
                 <li>Built strong foundation in full-stack web development</li>
             </ul>
-            <hr/>
+            ---
             <h4><strong>Sony</strong> — Intern (Jan 2013 – Jun 2013, On-site)</h4>
             <ul>
                 <li>Developed a zip code-based store locator platform</li>
@@ -154,11 +154,34 @@
         </td>
     </tr>
     <tr>
+        <td colspan="2" align="left">
+            <h3>Government</h3>
+        </td>
+    </tr>
+    <tr>
         <td valign="top" width="50%">
-            <img src="canva-200-design-milestone-badge.png">
+            <img src="government-web-design-and-development.jpg">
         </td>
         <td valign="top" width="50%">
-            <img src="contentful-developers.jpg">
+            <img src="government-ai-for-all.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="left">
+            <h3>Design</h3>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" width="50%">
+            <img src="canva-200-design-milestone-badge.jpg">
+        </td>
+        <td valign="top" width="50%">
+            <img src="placeholder.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="left">
+            <h3>WordPress/ WordPress VIP CMS</h3>
         </td>
     </tr>
     <tr>
@@ -167,6 +190,66 @@
         </td>
         <td valign="top" width="50%">
             <img src="wordpress-vip-architecture.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="left">
+            <h3>Contentful CMS</h3>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" width="50%">
+            <img src="contentful-developers.jpg">
+        </td>
+        <td valign="top" width="50%">
+            <img src="contentful-verified-skill-badge-studio-for-developer.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="left">
+            <h3>Calude AI</h3>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" width="50%">
+            <img src="claude-101.jpg">
+        </td>
+        <td valign="top" width="50%">
+            <img src="claude-code-101.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" width="50%">
+            <img src="claude-ai-capabilities.jpg">
+        </td>
+        <td valign="top" width="50%">
+            <img src="placeholder.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="left">
+            <h3>Microsoft AI</h3>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" width="50%">
+            <img src="microsoft-intro-ai.jpg">
+        </td>
+        <td valign="top" width="50%">
+            <img src="placeholder.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="left">
+            <h3>Project management</h3>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" width="50%">
+            <img src="pmi-generative-ai.jpg">
+        </td>
+        <td valign="top" width="50%">
+            <img src="pmi-talking-to-ai.jpg">
         </td>
     </tr>
     <tr>
