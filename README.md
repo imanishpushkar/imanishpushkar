@@ -273,7 +273,7 @@ The following web applications were independently architected, designed, develop
 
 ### Content Update & Removal Requests
 
-This portfolio is maintained in good faith based on my professional contributions. If you represent a client or organization and wish to request an update, correction, anonymization, or removal of any project information, please contact me at [hello@manishpushkar.com](mailto:hello@manishpushkar.com).
+This portfolio is maintained in good faith based on my professional contributions. If you represent a client or organization and wish to request an update, correction, anonymization, or removal of any project information, please contact me at [iammanishpushkar@gmail.com](mailto:iammanishpushkar@gmail.com).
 
 <table width="100%">
 <tr>
