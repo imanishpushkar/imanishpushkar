@@ -44,7 +44,7 @@
             <h3>Core Expertise</h3>
             <ul>
                 <li><strong>CMS:</strong> WordPress, WordPress VIP, Drupal, Contentful, Sitecore</li>
-                <li><strong>Commerce:</strong> Shopify, Shopify Plus, Magento, OpenCart (B2B/ B2C, ERP (SAP), PIM & API Driven Integrations) </li>
+                <li><strong>Commerce:</strong> WooCommerce, Shopify, Shopify Plus, Magento, OpenCart (B2B/ B2C, ERP (SAP), PIM & API Driven Integrations) </li>
                 <li><strong>Architecture:</strong> Headless CMS, API-first systems, scalable content modeling</li>
                 <li><strong>Development:</strong> PHP, JavaScript (ES6+), REST APIs, MySQL</li>
             </ul>
