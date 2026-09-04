@@ -238,7 +238,7 @@ A chronological record of selected professional projects and contributions.
 
 ## Web Applications & CRM / ERP Products
 
-The following web applications were independently architected, designed, developed, tested, and iterated as solo CRM/ERP and web application projects, with AI-assisted development workflows using ChatGPT.
+The following web applications were independently architected, designed, developed, tested, and iterated as solo CRM/ERP and web application projects, with AI-assisted development workflows.
 
 | No. | Application Name | Description | Tools & Technologies | Role | Project Year |
 | ---: | --- | --- | --- | --- | --- |
