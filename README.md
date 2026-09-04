@@ -3,9 +3,9 @@
     <tr>
         <td colspan="2" align="center">
             <h2>Manish Pushkar</h2>
-            <p><strong>CMS Architect | Headless CMS | WordPress VIP & Enterprise Platforms</strong></p>
-            <p>I design scalable, API-first web platforms using WordPress, Contentful, Drupal, and modern architectures.</p>
-            <p><strong>Trusted since 2012 • 100+ projects delivered worldwide</strong></p>
+            <p><strong>CMS Architect & Lead Developer — WordPress, Drupal, Magento, Sitecore & Shopify</strong></p>
+            <p>I design scalable, API-first web platforms using WordPress, Contentful, Drupal, Sitecore and modern architectures. </p>
+            <p><strong>Trusted since 2012 • 70<sup>+</sup> projects delivered worldwide</strong></p>
             <p><a href="https://linkedin.com/in/manish-pushkar">LinkedIn</a> • <a href="https://behance.net/manishpushkar">Behance</a></p>
         </td>
     </tr>
@@ -35,6 +35,7 @@
                 <li>Custom WordPress plugins & themes</li>
                 <li>Automation workflows (Cron, WP CLI)</li>
                 <li>Enterprise-grade platforms</li>
+                <li>CRM & ERP</li>
             </ul>
         </td>
     </tr>
@@ -42,8 +43,8 @@
         <td valign="top" width="50%">
             <h3>Core Expertise</h3>
             <ul>
-                <li><strong>CMS:</strong> WordPress, WordPress VIP, Drupal, Contentful</li>
-                <li><strong>Commerce:</strong> Shopify, Shopify Plus, Magento, OpenCart</li>
+                <li><strong>CMS:</strong> WordPress, WordPress VIP, Drupal, Contentful, Sitecore</li>
+                <li><strong>Commerce:</strong> Shopify, Shopify Plus, Magento, OpenCart (B2B/ B2C, ERP (SAP), PIM & API Driven Integrations) </li>
                 <li><strong>Architecture:</strong> Headless CMS, API-first systems, scalable content modeling</li>
                 <li><strong>Development:</strong> PHP, JavaScript (ES6+), REST APIs, MySQL</li>
             </ul>
