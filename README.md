@@ -89,7 +89,7 @@
                 <li>Worked on projects including Lehtipiste, Kaivosvastuu, and Saas Instruments</li>
                 <li>Focused on system architecture, performance optimization, and scalable delivery</li>
             </ul>
-            <p><strong>Tech/Tools:</strong> HTML5, CSS3, Bootstrap 5, WordPress, Drupal, Contentful, PHP, Ajax, REST API, GraphQL, Git, Jira, Confluence, Figma, Adobe XD</p>
+            <p><strong>Tech/Tools:</strong> HTML5, CSS3, Bootstrap 5, WordPress, Drupal, Contentful, Adobe Commerce/ Magento, PHP, Ajax, REST API, GraphQL, Git, Jira, Confluence, Figma, Adobe XD</p>
             ---
             <h4><strong>Tricon Infotech</strong> — Principal Engineer (May 2021 – Mar 2022, Remote)</h4>
             <ul>
