@@ -161,7 +161,7 @@ A chronological record of selected professional projects and contributions.
 
 | No. | Project Name | Employer | Industry / Domain | Platform | Role | Year |
 | --- | --- | --- | --- | --- | --- | --- |
-| 71 | Groundworks | Photon | Construction, Home Services, Enterprise CMS | WordPress VIP, WordPress, PHP | Technical Lead / Solution Architect | 2025–2026 |
+| 71 | Groundworks | Photon | Construction, Home Services, Enterprise CMS | WordPress VIP, WordPress, WordPress Multisite, PHP | Technical Lead / Solution Architect | 2025–2026 |
 | 70 | Mister Car Wash | Photon | Automotive Services, eCommerce, Customer Experience | Shopify Plus, WooCommerce, Shopify | Platform Solution Architect | 2025–2026 |
 | 69 | WP Coredo Events Management Plugin | Coredo OY | WordPress Plugin | WordPress, PHP | WordPress Plugin Development/ Maintenance | 2022–2025 |
 | 68 | Product 'stock update' subscription | Coredo OY | WordPress Plugin | WordPress, PHP | WordPress Plugin Development/ Maintenance | 2022–2025 |
