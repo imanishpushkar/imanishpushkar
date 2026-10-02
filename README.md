@@ -141,7 +141,14 @@
                 <li>Built strong foundation in full-stack web development</li>
             </ul>
             ---
-            <h4><strong>Sony</strong> — Intern (Jan 2013 – Jun 2013, On-site)</h4>
+            <h4><strong>Kay Expert IT Solutions</strong> — Software Engineer (Feb 2013 – Aug 2013, On-site)</h4>
+            <ul>
+                <li>Developed a Shopify store for Noida based Pickle Shop</li>
+                <li>Built responsive UI and real-time search functionality</li>
+                <li>Delivered user-friendly experience across devices</li>
+            </ul>
+            ---
+            <h4><strong>Sony</strong> — Intern (Aug 2012 – Jan 2013, On-site)</h4>
             <ul>
                 <li>Developed a zip code-based store locator platform</li>
                 <li>Built responsive UI and real-time search functionality</li>
