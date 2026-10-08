@@ -341,6 +341,32 @@ This portfolio is maintained in good faith based on my professional contribution
     </tr>
     <tr>
         <td colspan="2" align="left">
+            <h3>Shopify</h3>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" width="50%">
+            <img src="shopify.jpeg">
+        </td>
+        <td valign="top" width="50%">
+            <img src="placeholder.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="left">
+            <h3>Hubspot</h3>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" width="50%">
+            <img src="hubspot-digital-marketing.png">
+        </td>
+        <td valign="top" width="50%">
+            <img src="placeholder.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="left">
             <h3>Calude AI</h3>
         </td>
     </tr>
