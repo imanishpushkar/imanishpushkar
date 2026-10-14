@@ -161,6 +161,126 @@
 
 ---
 
+# Selected Project Portfolio
+
+
+A chronological record of selected professional projects and contributions.
+
+| No. | Project Name | Employer | Industry / Domain | Platform | Role | Year |
+| --- | --- | --- | --- | --- | --- | --- |
+| 71 | Groundworks | Photon | Construction, Home Services, Enterprise CMS | WordPress VIP, WordPress, WordPress Multisite, PHP | Technical Lead / Solution Architect | 2025–2026 |
+| 70 | Mister Car Wash | Photon | Automotive Services, eCommerce, Customer Experience | Shopify Plus, WooCommerce, Shopify | Platform Solution Architect | 2025–2026 |
+| 69 | WP Coredo Events Management Plugin | Coredo OY | WordPress Plugin | WordPress, PHP | WordPress Plugin Development/ Maintenance | 2022–2025 |
+| 68 | Product 'stock update' subscription | Coredo OY | WordPress Plugin | WordPress, PHP | WordPress Plugin Development/ Maintenance | 2022–2025 |
+| 67 | Solita Automated Product Importer | Coredo OY | WordPress Plugin | WordPress, PHP | WordPress Plugin Development/ Maintenance | 2022–2025 |
+| 66 | SYNKAA Automated Media Importer | Coredo OY | WordPress Plugin | WordPress, PHP | WordPress Plugin Development/ Maintenance | 2022–2025 |
+| 65 | Prego Booking | Coredo OY | Restaurants | WordPress, PHP | WordPress Website Development/ Maintenance | 2022–2025 |
+| 64 | Prego Group | Coredo OY | Restaurants | WordPress, PHP | WordPress Website Development/ Maintenance | 2022–2025 |
+| 63 | Puuni | Coredo OY | Environmental impact partner | WordPress, PHP | WordPress Website Maintenance | 2022–2025 |
+| 62 | Heinon Tukku Oy | Coredo OY | Food & Beverages | WordPress, PHP | WordPress Website Maintenance | 2022–2025 |
+| 61 | Freia Life | Coredo OY | Digital Service, personal Wellness | WordPress, PHP | WordPress Website Maintenance | 2022–2025 |
+| 60 | Erkkeri | Coredo OY | Real Estate | WordPress, PHP | WordPress Website Maintenance | 2022–2025 |
+| 59 | Enjoy Dr_nk | Coredo OY | Product | WooCommerce, WordPress, PHP | WordPress Website Development/ Maintenance | 2022–2025 |
+| 58 | SAAS | Coredo OY | Product | WooCommerce, WordPress, PHP | WordPress/ WooCommerce Website Development/ Maintenance | 2022–2025 |
+| 57 | Alertum | Coredo OY | Training | WordPress, PHP | WordPress Website Maintenance | 2022–2025 |
+| 56 | Hogfors | Coredo OY | Product | WordPress, PHP | WordPress Website Development/ Maintenance | 2022–2025 |
+| 55 | Lehtipiste | Coredo OY | Marketing | WordPress, PHP | WordPress Website Development/ Maintenance | 2022–2025 |
+| 54 | Kaivosvastuu | Coredo OY | Mining, Exploration | WordPress, PHP | WordPress Website Development/ Maintenance | 2022–2025 |
+| 53 | Taylor & Francis | Tricon Infotech | Education | WordPress, PHP | WordPress Website Development/ Maintenance | 2021–2022 |
+| 52 | Adobe XD Newsletters | Adobe | Marketing | HTML • CSS • Visual Studio Code • Jira • Confluence | HTML Newsletter Developer | 2020–2021 |
+| 51 | Adobe Marketing Scripts Manager WordPress Plugin | Adobe | WordPress Plugin | WordPress, PHP | WordPress Plugin Development/ Maintenance | 2020–2021 |
+| 50 | Adobe Google reCAPTCHA v3 Integrator WordPress Plugin | Adobe | WordPress Plugin | WordPress, PHP | WordPress Plugin Development/ Maintenance | 2020–2021 |
+| 49 | Adobe Brackets | Adobe | Code Editor, Product, Blog | WordPress, PHP | WordPress Website Development/ Maintenance | 2020–2021 |
+| 48 | Adobe XD Ideas | Adobe | Digital Media, Product, Blog | WordPress, PHP | WordPress Website Development/ Maintenance | 2020–2021 |
+| 47 | FHL Bank | Opteamix | Banking Services | Contentful, Drupal | Website Development/ Maintenance | 2018–2019 |
+| 46 | Maximus | Opteamix | IT | HTML • CSS3 • Bootstrap 4 • JavaScript • Git • Visual Studio Code | Website Development/ Maintenance | 2018–2019 |
+| 45 | My Car & Bike | Opteamix | IT | WordPress, PHP | WordPress Website Development/ Maintenance | 2018–2019 |
+| 44 | Opteamix | Opteamix | IT | WordPress, PHP | WordPress Website Development/ Maintenance | 2018–2019 |
+| 43 | Contentful Admin Panel | Magnetyz | CMS Migration & Editor Management, API Management | Contentful, PHP | Contentful Backend Development | 2016–2018 |
+| 42 | Disable Gutenberg WordPress Plugin | Magnetyz | CMS Migration & Editor Management, WordPress Plugin Development | WordPress, PHP | WordPress Plugin Development | 2016–2018 |
+| 41 | Presidency University | Magnetyz | Education | WordPress, PHP | WordPress Website Maintenance | 2016–2018 |
+| 40 | HTML Landing Page Development | Magnetyz | Marketing | HTML5 | HTML Newsletter Development | 2016–2018 |
+| 39 | Marketo Newsletter Development | Magnetyz | Marketing | HTML • CSS | HTML Newsletter Development | 2016–2018 |
+| 38 | Presidency School Banashankari (PSBSK) | Magnetyz | Education | WordPress, PHP | WordPress Website Maintenance | 2016–2018 |
+| 37 | Presidency School Yelahanka (PSBN) | Magnetyz | Education | WordPress, PHP | WordPress Website Maintenance | 2016–2018 |
+| 36 | Presidency School Kasturi Nagar (PSBE) | Magnetyz | Education | WordPress, PHP | WordPress Website Maintenance | 2016–2018 |
+| 35 | Presidency School Bilekahalli (PSBS) | Magnetyz | Education | WordPress, PHP | WordPress Website Maintenance | 2016–2018 |
+| 34 | Presidency School Mangalore (PSMNG) | Magnetyz | Education | WordPress, PHP | WordPress Website Maintenance | 2016–2018 |
+| 33 | St. Paul's English School JP Nagar (SPES) | Magnetyz | Education | WordPress, PHP | WordPress Website Maintenance | 2016–2018 |
+| 32 | Presidency School RT Nagar (PSRTN) | Magnetyz | Education | WordPress, PHP | WordPress Website Maintenance | 2016–2018 |
+| 31 | Presidency School Nandini Layout (PSNLO) | Magnetyz | Education | WordPress, PHP | WordPress Website Maintenance | 2016–2018 |
+| 30 | Venkat International School | Magnetyz | Education | WordPress, PHP | WordPress Website Maintenance | 2016–2018 |
+| 29 | Venus International School | Magnetyz | Education | WordPress, PHP | WordPress Website Maintenance | 2016–2018 |
+| 28 | Archius | Magnetyz | Architectural studio | WordPress, PHP | WordPress Website Maintenance | 2016–2018 |
+| 27 | Rapid Corp India | Magnetyz | Architectural studio | WordPress, PHP | WordPress Website Maintenance | 2016–2018 |
+| 26 | Valfar | Magnetyz | Architectural studio | WordPress, PHP | WordPress Website Maintenance | 2016–2018 |
+| 25 | Kalika Group | Magnetyz | Education, Agriculture | WordPress, PHP | WordPress Website Maintenance | 2016–2018 |
+| 24 | Reem | Magnetyz | Food & Beverage | WordPress, PHP | WordPress Website Maintenance | 2016–2018 |
+| 23 | Inter Digital | Magnetyz | IT, solutions, performance marketing & AI automation agency | WordPress, PHP | WordPress Website Maintenance | 2016–2018 |
+| 22 | Hyfah | Magnetyz | Cosmetics | WordPress, PHP | WordPress Website Development from scratch | 2016–2018 |
+| 21 | Savoury | Magnetyz | Food & Beverage | WordPress, PHP | WordPress Website Maintenance | 2016–2018 |
+| 20 | Corcoran Solicitors | Brandstard | Solicitors | WordPress, HTML5 | WordPress Website Development/ Maintenance | 2016 |
+| 19 | Pratham Developers | Brandstard | Real Estate | WordPress, HTML5 | WordPress Website Maintenance | 2016 |
+| 18 | Alankruthi | Brandstard | Jewellery Store, eCommerce, Online Shop | Magento, HTML5 | Magento Website Development from Theme Customization | 2016 |
+| 17 | Shaadi ki Biryani | Brandstard | Food & Beverage | WooCommerce, WordPress, HTML5 | WordPress Website Development from Theme Customization | 2016 |
+| 16 | YFF Foreign Policy | Brandstard | International Relations | WordPress, HTML5 | WordPress Website Development from Theme Customization | 2016 |
+| 15 | Vivansaa | Brandstard | Real Estate | WordPress, HTML5 | WordPress Website Maintenance | 2016 |
+| 14 | Brandstard | Brandstard | IT, Digital Services | WordPress, HTML5 | WordPress Website Development from Theme Customization | 2016 |
+| 13 | Pocket College | Prakyath Applications | Education | PHP, HTML5 | Website Application Maintenance | 2014–2015 |
+| 12 | My Kannada Classics | Prakyath Applications | Entertainment | WordPress, HTML5 | WordPress Website Development from scratch | 2014–2015 |
+| 11 | Latest Trailerz | Prakyath Applications | Entertainment | WordPress, HTML5 | WordPress Website Development from scratch | 2014–2015 |
+| 10 | Prakyath Group | Prakyath Applications | IT & Real Estate | WordPress, HTML5 | WordPress Website Development from scratch | 2014–2015 |
+| 9 | Prakyath Edifice | Prakyath Applications | Real Estate | WordPress, HTML5 | WordPress Website Development from Theme Customization | 2014–2015 |
+| 8 | School Management System Web Application | Quaarc Solutions | Education | Asp.Net, HTML5 | Website Application Maintenance | 2013–2014 |
+| 7 | RR Wedding and Events | Quaarc Solutions | Event Organizers and Planners | PHP, HTML5 | WordPress Website Development from Theme Customization | 2013–2014 |
+| 6 | SunWood Business Apartments | Quaarc Solutions | Business Apartments | HTML5 | HTML Website Development from PSD | 2013–2014 |
+| 5 | Adamma | Quaarc Solutions | Background Verification | PHP, HTML5 | PHP Website Development from PSD | 2013–2014 |
+| 4 | Teachers Academy Website | Quaarc Solutions | Education | Asp.Net, HTML5 | Website Maintenance | 2013–2014 |
+| 3 | Teachers English Academy Website | Quaarc Solutions | Education | PHP, HTML5 | PHP Website Development from PSD | 2013–2014 |
+| 2 | Quaarc Solutions Official Website | Quaarc Solutions | IT Services | HTML4/5 • CSS3 • OS Class UI • Git • Visual Studio | Website Maintenance | 2013–2014 |
+| 1 | Sony Official Website | Sony | Entertainment | HTML4/5 • CSS3 • JavaScript • Table Layout • Notepad++ • Atom | Website Maintenance | 2013 |
+
+---
+
+
+## My CRM & Web Application Journey
+
+The following web applications were independently architected, designed, developed, tested, and iterated as solo CRM/ERP and web application projects, with AI-assisted development workflows.
+
+| No. | Application Name | Description | Tools & Technologies | Role | Project Year | Development Hours |
+| ---: | --- | --- | --- | --- | ---: | ---: |
+| 1 | Dental Practice Management System | Complete dental clinic CRM for patients, appointments, FDI dental charts, treatments, prescriptions, estimates, invoices, inventory, doctors, receptionists, payroll, documents, reports, and patient portal. | PHP, PDO, MySQL, HTML5, CSS3, JavaScript, AJAX, Bootstrap, REST/API-ready architecture | Solo CRM / ERP Developer & Solution Architect | 2012 | 480 |
+| 2 | P&C Insurance Management System | Insurance CRM for managing policyholders, agents, brokers, policies, renewals, claims, documents, payments, and operational records. | PHP, PDO, MySQL, HTML5, CSS3, JavaScript, AJAX, Bootstrap | Solo CRM Developer & Solution Architect | 2012 | 320 |
+| 3 | Solo Gynae Clinic Management System | Women’s health clinic CRM covering patients, appointments, ANC/pregnancy records, clinical notes, treatment plans, prescriptions, invoices, reports, and patient portal. | PHP, PDO, MySQL, HTML5, CSS3, JavaScript, AJAX, Bootstrap, Email Queue | Solo Healthcare CRM Developer | 2012 | 112 |
+| 4 | Solo Eye Clinic Management System | Eye-clinic web application for patient records, appointments, eye examinations, prescriptions, invoices, payments, follow-ups, reports, and patient access. | PHP, PDO, MySQL, HTML5, CSS3, JavaScript, AJAX, Bootstrap | Solo Healthcare CRM Developer | 2013 | 180 |
+| 5 | Recruitment & Career Platform with Public Jobs API | Recruitment platform combining internal hiring operations, public career portal, candidate accounts, application pipeline, interviews, offers, talent pool, reporting, audit history, and a public jobs API. | PHP, PDO, MySQL, REST API, HTML5, CSS3, JavaScript, AJAX, Bootstrap | Solo Recruitment CRM / API Developer | 2014 | 720 |
+| 6 | Travel Agent CRM | Travel operations CRM for accommodations, itineraries, activities, flights, bookings, suppliers, customer records, reports, calendars, and itinerary sharing. | PHP, PDO, MySQL, HTML5, CSS3, JavaScript, AJAX, Bootstrap | Solo Travel CRM Developer | 2015 | 240 |
+| 7 | Engineering Operations Suite | ERP-style operations platform for engineering businesses, combining operational records, projects, resources, workflows, reporting, and administrative controls. | PHP, PDO, MySQL, HTML5, CSS3, JavaScript, AJAX, Bootstrap | Solo ERP Developer & Solution Architect | 2016 | 206 |
+| 8 | Architect Office Management System | Architecture-office ERP for clients, projects, drawings, approvals, site visits, staff, payroll, invoices, documents, and client/staff portals. | PHP, PDO, MySQL, Bootstrap, JavaScript, HTML5, CSS3, PDF Generation | Solo ERP Developer & Solution Architect | 2017 | 120 |
+| 9 | Foundation Inspection & Project Management System | Field/project management CRM for foundation inspection workflows, projects, client information, inspection records, documentation, and operational tracking. | PHP, PDO, MySQL, HTML5, CSS3, JavaScript, AJAX, Bootstrap | Solo CRM / Project Systems Developer | 2018 | 720 |
+| 10 | Restaurant Multi-Outlet Management System | Multi-location restaurant operations CRM for outlets, staff, operational records, customers, reporting, and centralized management. | PHP, PDO, MySQL, HTML5, CSS3, JavaScript, AJAX, Bootstrap | Solo ERP / Operations Developer | 2018 | 196 |
+| 11 | Car Wash Management System | Multi-outlet car-wash platform with customers, bookings, memberships, outlets, employees, salary settings, customer portal, and reports. | PHP, PDO, MySQL, HTML5, CSS3, JavaScript, AJAX, Bootstrap | Solo Business Application Developer | 2019 | 540 |
+| 12 | Renewable Energy ESG Management System | CRM/ERP platform for renewable-energy and ESG-related operational records, projects, reporting, compliance information, and business workflows. | PHP, PDO, MySQL, HTML5, CSS3, JavaScript, AJAX, Bootstrap | Solo CRM / ERP Developer | 2020 | 281 |
+| 13 | CA Office Management System | Practice-management CRM for accounting/CA offices to organize clients, assignments, documents, deadlines, billing, and internal workflows. | PHP, PDO, MySQL, HTML5, CSS3, JavaScript, AJAX, Bootstrap | Solo Professional Services CRM Developer | 2020 | 196 |
+| 14 | Child Specialist Management System | Pediatric clinic management application for patients, appointments, clinical information, prescriptions, billing, follow-ups, and clinic operations. | PHP, PDO, MySQL, HTML5, CSS3, JavaScript, AJAX, Bootstrap | Solo Healthcare CRM Developer | 2021 | 240 |
+| 15 | Advocate Office Management System | Legal-office CRM for clients, matters/cases, documents, schedules, billing, activities, and administrative workflows. | PHP, PDO, MySQL, HTML5, CSS3, JavaScript, AJAX, Bootstrap | Solo Legal CRM Developer | 2022 | 281 |
+| 16 | Gym Membership Management System | Gym CRM for members, memberships, plans, payments, attendance, renewals, staff, and operational reporting. | PHP, PDO, MySQL, HTML5, CSS3, JavaScript, AJAX, Bootstrap | Solo CRM Developer | 2023 | 240 |
+| 17 | Tutor CRM | Tutor-focused CRM for students, appointments/classes, records, payments, communication, and administrative management. | PHP, PDO, MySQL, HTML5, CSS3, JavaScript, AJAX, Bootstrap | Solo Education CRM Developer | 2024 | 96 |
+| 18 | Roadside Assistance ERP | Operations ERP concept/development for roadside-assistance businesses covering customers, service requests, vehicles, dispatch, providers, jobs, payments, and reporting. | PHP, PDO, MySQL, HTML5, CSS3, JavaScript, AJAX, Bootstrap | Solo ERP / Operations Developer | 2025 | 720 |
+| 19 | Event Booking Web Application | Responsive event-booking platform with a mobile-app-style experience for event discovery, booking workflows, users, and administration. | PHP, PDO, MySQL, HTML5, CSS3, JavaScript, AJAX | Solo Full-Stack Web Application Developer | 2025 | 78 |
+| 20 | Wedding RSVP Web Application | Self-hosted RSVP application with guest responses, event information, administration, and installer-based deployment. | PHP, PDO, MySQL, HTML5, CSS3, JavaScript | Solo Full-Stack Web Application Developer | 2025 | 90 |
+| 21 | Online Photo Print Studio Management System | Web application for photo-print studio operations, customer orders, uploads, order processing, pricing, status tracking, and administration. | PHP, PDO, MySQL, HTML5, CSS3, JavaScript, AJAX, Bootstrap | Solo Web Application Developer | 2026 | 240 |
+| 22 | LeadPulse Marketing Platform | Marketing/lead-management application focused on lead organization, customer workflows, campaign-oriented operations, and business follow-up. | PHP, PDO, MySQL, HTML5, CSS3, JavaScript, AJAX, REST API | Solo CRM / Marketing Platform Developer | 2026 | 81 |
+| 23 | Company Careers Recruitment Management System | Recruitment/ATS application for job openings, applicants, applications, interviews, talent pools, HR users, permissions, notifications, and candidate workflows. | PHP, PDO, MySQL, HTML5, CSS3, JavaScript, AJAX, Bootstrap, Email Queue | Solo Recruitment Platform Developer | 2026 | 63 |
+| 24 | Solo Professional Business Manager | Professional-services CRM for projects, milestones, quotations, invoices, payments, files, clients, multi-user access, financial visibility, and activity/login tracking. | PHP, PDO, MySQL, HTML5, CSS3, JavaScript, AJAX, Bootstrap, PDF Generation | Solo CRM / Business Application Developer | 2026 | 280 |
+
+
+---
+
+### Content Update & Removal Requests
+
+This portfolio is maintained in good faith based on my professional contributions. If you represent a client or organization and wish to request an update, correction, anonymization, or removal of any project information, please contact me at [iammanishpushkar@gmail.com](mailto:iammanishpushkar@gmail.com).
+
 <table width="100%">
 <tr>
         <td colspan="2" align="center">
